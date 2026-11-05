@@ -1,0 +1,21 @@
+MI PRIMER PROYECTO ANDROID
+
+1. Descomprime el ZIP.
+2. Abre Android Studio > Open y selecciona la carpeta MiPrimerProyectoAndroid.
+3. Deja que Gradle sincronice. Si Android Studio pide instalar SDK 35, acepta.
+4. Ejecuta la aplicacion en un emulador o telefono Android.
+5. Cambia el idioma del dispositivo a espanol, ingles, frances y aleman.
+6. Comprueba orientacion vertical/horizontal y tamanos telefono/tablet.
+7. Toma capturas reales para adjuntar a Coursera.
+
+CONTENIDO:
+- Java + XML
+- Espanol por defecto, ingles, frances y aleman
+- Dos layouts para orientaciones
+- Fondo .9.png real con franjas extensibles laterales y cielo superior,
+  protegiendo la parte central inferior del robot Android.
+
+NOTA: No se incluye APK compilado ni pruebas ejecutadas: hay que
+sincronizar, compilar y verificar en Android Studio antes de entregar.
+
+Proyecto creado para aprendizaje; revisa y adapta el codigo antes del envio.
